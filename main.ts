@@ -14,6 +14,8 @@ namespace Music {
     //% blockId="ledOfRectangle" block="show area of rectangle length %length|width %width"
     //% blockGap=2 weight=1
     export function ledOfRectangle(length: number, width:number): void {
-        basic.showNumber(length*width)
+         music.playTone(262, music.beat(BeatFraction.Whole))
+		 music.playTone(262, music.beat(BeatFraction.Whole))
+		 music.playTone(262, music.beat(BeatFraction.Whole))
     }
 }

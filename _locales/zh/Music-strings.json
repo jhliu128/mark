@@ -1,5 +1,5 @@
 {
-    "tools|block": "工具",
-    "tools.areaOfRectangle|block": "長方形面積 長 %length|寬 %width",
-    "tools.sweat_family": "演奏 甜蜜的家庭"
+    "Music|block": "工具",
+    "Music.areaOfRectangle|block": "長方形面積 長 %length|寬 %width",
+    "Music.sweat_family": "演奏 甜蜜的家庭"
 }

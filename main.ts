@@ -11,7 +11,7 @@ namespace Music {
     }
 
     /**
-    * 計算長方形面積，不回傳，只顯示在LED
+    * 演奏 甜蜜的家庭
     */
     //% blockId="sweat_family" block="play sweat_family"
     //% blockGap=2 weight=1

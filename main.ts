@@ -15,10 +15,8 @@ namespace Music {
     */
     //% blockId="sweat_family" block="play sweat_family"
     //% blockGap=2 weight=1
-    export function ledOfRectangle(): void {
-    music.playTone(262, music.beat(BeatFraction.Half))
+    export function sweat_family(): void {
     music.playTone(262, music.beat(BeatFraction.Whole))
-    music.playTone(262, music.beat(BeatFraction.Double))
     music.playTone(294, music.beat(BeatFraction.Whole))
     music.playTone(330, music.beat(BeatFraction.Whole))
     }
